@@ -1,2 +1,2 @@
 # OnlineJudge-master
- OJ system for bachelor programme.
+Online Judge system
